@@ -1,31 +1,23 @@
+# Katie Vandeloo
 
-# This is a large heading
+### Geography 
 
-## This is a smaller heading
+I live in the city of Ottawa, Ontario, Canada 
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Reading 
 
-- This is
-- an unordered
-- list
+Three of my favourite books are: 
 
-1. This is
-2. an ordered
-3. list
+ - *The Alchemist* 
+ - *The City of Ember*
+ - *The Martian*
 
-Here is `some code` in the middle of a sentence.
+ ### Food
 
-```
-This is
-a block
-of code
-```
+Last night I dreamt about eating in these resturants: 
 
-Here is how you make [a link](https://www.wikipedia.org/).
+ 1. The Keg
+ 2. Henry of Pelham 
+ 3. La Favorita 
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
-nano README.md
